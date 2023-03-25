@@ -1,1 +1,3 @@
 # Automated-Stress-Detection
+
+This project seeks to develop a machine learning model using Python to detect signs of stress in social media posts. The data used is from subreddits related to mental health and is labeled as 0 (no stress) and 1 (stress). The Bernoulli Naive Bayes algorithm is used for binary classification, and the text column of the dataset is cleaned prior to training the model. The results indicate that this approach could be extended to other areas such as sentiment analysis of customer reviews, detecting fake news or identifying spam emails. In short, any problem involving pattern recognition in text data can benefit from machine learning techniques like the one employed in this project.
